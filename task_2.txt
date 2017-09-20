@@ -14,7 +14,8 @@ owner-strawbale@crest.org
 outlook.team@enron.com
 Outlook.2000@enron.com
 OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com
-orourke.john@epenergy.com outlook-migration-team@enron.com
+orourke.john@epenergy.com
+outlook-migration-team@enron.com
 outlook-migration-team@enron.com
 ove@commissioner.com
 online.service@schwab.com
